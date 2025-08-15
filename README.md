@@ -1,0 +1,2 @@
+# nordseecraft
+Minecraft Server Nordseecraft
