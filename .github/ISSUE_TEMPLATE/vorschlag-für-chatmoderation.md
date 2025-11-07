@@ -1,7 +1,7 @@
 ---
 name: Vorschlag für Chatmoderation
 about: Wörterliste ändern mit dieser Vorlage
-title: "[CHANGE]"
+title: "[CHANGE] Wörterliste"
 labels: change
 assignees: ''
 
